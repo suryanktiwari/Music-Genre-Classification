@@ -2,7 +2,7 @@
 
 This project was submitted as a part of Statistical Machine Learning course at IIITD in Winter 2020.
 
-10 genre music genre classification. Comparative and exploratory analysis of the pre-processing routines applied, feature extraction techniques and the models used for identification are enclosed
+10 genre music genre classification on the [GTZAN dataset](http://marsyas.info/downloads/datasets.html). Comparative and exploratory analysis of the pre-processing routines applied, feature extraction techniques and the models used for identification are enclosed
 
 The ipynb file is well documented and is self-explanatory.
 
